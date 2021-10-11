@@ -8,7 +8,7 @@ This repository is for storing any information related to TAMK_CTF team and its 
 
 	Resources to go over  
 		* [Gobuster](https://patchthenet.com/articles/using-gobuster-to-find-hidden-web-content/)  
-		* [Nmap cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
+		* [Nmap cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)  
 		* TryHackMe CTF [PickleRick](https://tryhackme.com/room/picklerick)
 
 
