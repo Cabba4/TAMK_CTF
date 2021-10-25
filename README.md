@@ -2,6 +2,10 @@
 
 This repository is for storing any information related to TAMK_CTF team and its development within IO-Virta. 
 
+### Third meeting  
+
+* Discussed OSINT tools and OhSINT room in tryhackme
+
 ### Second meeting
 
 * Introduced some new tools and basic terminal navigation, also started an easy CTF on tryhackme  
